@@ -18,7 +18,6 @@ i really hate google, microsoft, meta and apple, i use windows but i am slowly m
 
 ## stats:
 
-
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaardvark&layout=compact)](https://github.com/qaardvark)
 
  
