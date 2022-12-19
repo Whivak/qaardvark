@@ -15,4 +15,10 @@ i have a lot of weird sites including this weird one about some mythical creatur
 i like web browsers so much that i am currently making a browser encyclopedia, it was originally a collection but now its an encyclopedia.
 
 i really hate google, microsoft, meta and apple, i use windows but i am slowly moving towards zorin, i use it mostly because of compatibility.
+
+## stats:
+
+
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaardvark&layout=compact)](https://github.com/qaardvark)
+
  
