@@ -19,6 +19,9 @@ i like web browsers so much that i am currently making a browser encyclopedia, i
 i really hate google, microsoft, meta and apple, and i think privacy in any place including online should be a human right, not a privilege.
 
 but paradoxically i use windows but i am slowly moving towards zorin os, i use it mostly because of compatibility.
+
+
+<sub>my theology is private.</sub>
 ### disclamer: 
  
  
