@@ -12,18 +12,12 @@ i have a lot of weird sites, including this weird one about some mythical creatu
 
 i like web browsers so much that i am currently making a browser encyclopedia, it was originally a private collection, but now it is an encyclopedia.
 
-i really hate google, microsoft, meta and apple, and i think privacy in any place including online should be a human right, not a privilege.
+i despise what i define "death tech", which is just a compilation of fraud companies like alphabet, meta, microsoft, amazon, apple etc, and i think privacy in any place including online should be a human right, not a privilege. <br><sup>*i know it sounds cliché but its true*</sup>
 
 but paradoxically i use windows but i am slowly moving towards endeavor os, i use it mostly because of compatibility.
 
 [see more...](https://qaardvark.github.io)
 
-<sub>my theology is private.</sub>
-### disclamer: 
- 
- 
-<sup><i>i know i wrote some things wrong, but i am not taking the useless work of rewriting this small text, because the objective of any modern and ancient language, is to understand, and if you understood what i meant in this text, then it is ok.</i></sup>
-
-## stats:
+## stats... i guess:
 
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaardvark&layout=compact)](https://github.com/qaardvark)
