@@ -14,8 +14,6 @@ i like web browsers so much that i am currently making a browser encyclopedia, i
 
 i despise what i define "death tech", which is just a compilation of fraud companies like alphabet, meta, microsoft, amazon, apple etc, and i think privacy in any place including online should be a human right, not a privilege. <br><sup>*i know it sounds cliché but its true*</sup>
 
-but paradoxically i use windows but i am slowly moving towards endeavor os, i use it mostly because of compatibility.
-
 [see more...](https://qaardvark.github.io)
 
 ## stats... i guess:
